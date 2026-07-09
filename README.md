@@ -20,7 +20,7 @@ Codex-X 提供桌面 UI、Provider 切换、TOML / Auth 可视化编辑、会话
 - TG 交流群：[@Geminivip1](https://t.me/Geminivip1)
 
 <p align="center">
-  <img width="360" alt="QQ AI 技术交流群二维码" src="assets/ai-tech-group.png" />
+  <img width="360" alt="QQ AI 技术交流群二维码" src="https://cdn.jsdelivr.net/gh/yynxxxxx/Codex-5.5-codex-instruct-5.5@main/assets/ai-tech-group-480.png" />
 </p>
 
 ## 这是什么 / What
